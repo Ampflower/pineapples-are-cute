@@ -14,3 +14,6 @@ We will look at solving this issue soon.
 This section has been left as-is from the upstream.
 
 If you'd like to support my work here and help me ~~fund my growing domain name addiction~~ make more things, feel free to donate to my ko-fi! The link is over at https://ko-fi.com/draconizations
+
+## Pineapple
+Sourced from <https://github.com/QuiltMC/art/tree/master/emoji>
